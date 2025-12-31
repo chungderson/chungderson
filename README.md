@@ -15,3 +15,7 @@ My end goal is to tangibly help the world. I aspire to build something (a produc
 <a href="https://instagram.com/quant_andy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram"></a>
 <a href="https://linkedin.com/in/anderson-chung" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"></a>
 <a href="https://achung.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio"></a>
+
+## Projects
+
+A smattering of my projects may be found below. I'm particularly proud of my **CMU Block Market Analysis** and of my repository on **Non-Linear Beta**
