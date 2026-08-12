@@ -8,7 +8,7 @@ I'm Anderson Chung, a Statistics & Machine Learning undergraduate at ***Carnegie
 - Applied econometrics and statistical modeling
 - Financial markets education and communication (check out my [Instagram](https://instagram.com/quant_andy) if you haven't already!)
 
-My end goal is to tangibly help the world. I aspire to build something (a product, perchance) that addresses a real problem and drives meaningful impact. If you have an issue that you'd like me to solve, please contact me below.
+My end goal is to tangibly help the world. I aspire to build something (a product, perchance) that addresses a real problem and drives meaningful impact. If you have an issue that you'd like me to look into, please contact me below.
 
 ## Contact
 
